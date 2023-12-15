@@ -1,0 +1,17 @@
+{
+  "district_name": "Bajhang",
+  "headquarter": "Chainpur",
+  "population": null,
+  "area": 3422,
+  "local_states": [
+    {
+      "name": "Bitthadchir",
+      "chair_person": "Ammar Mahar"
+      "wards": [
+        {"ward_number": 8, "ward_charirman": "Sushil Adhikari"}
+        // Add more wards as needed
+      ]
+    }
+    
+  ]
+}
